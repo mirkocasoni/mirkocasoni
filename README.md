@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Mirko 👋
+
+- 🔭 I’m currently working on Zendesk Web Widgets, Sportcard and Prenotare.app mobile apps
+- 🌱 I’m currently learning how to create a Zendesk Web Widget with NuxtJS
+- 🤔 I’m looking for help with the previous point.
+- 📫 How to reach me: [mirko.casoni@be-simple.it](mailto:mirko.casoni@be-simple.it)
 
 <!--
 **mirkocasoni/mirkocasoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
